@@ -288,9 +288,7 @@ Implements RFC 7591 for dynamic client registration: https://tools.ietf.org/html
 
 Documentation: See `docs/SETUP.md`
 
-Report Issues: https://github.com/YOUR_USERNAME/chatgpt-custom-mcp-for-local-files/issues
-
-Discussions: https://github.com/YOUR_USERNAME/chatgpt-custom-mcp-for-local-files/discussions
+Given as-is. No support provided.
 
 ---
 
