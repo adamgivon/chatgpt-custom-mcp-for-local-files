@@ -259,13 +259,7 @@ Now "Start MCP Server" appears in your app menu.
 
 ## Contributing
 
-Contributions welcome! Please:
-
-1. Fork the repository
-2. Create a feature branch
-3. Test your changes thoroughly
-4. Submit a pull request
-
+Feel free to fork and modify for your own use. Pull requests are welcome but may not be reviewed or merged in a timely manner. No guarantees of acceptance.
 ---
 
 ## License
