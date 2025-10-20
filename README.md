@@ -1,6 +1,6 @@
 # ChatGPT Custom MCP for Local Files
 
-Custom MCP server for reading local files using Cloudflare Tunnel. Point ChatGPT to a dedicated folder on your machine - the model reads complete files on demand. No RAG preprocessing, no partial reads, no uploads. Direct file access through secure OAuth 2.0.
+Custom MCP server for reading local files using Cloudflare Tunnel. Point ChatGPT (chatgpt.com, not api) to a dedicated folder on your machine - the model reads complete files on demand. No RAG preprocessing, no partial reads, no uploads. Direct file access through secure OAuth 2.0.
 
 To be clear, file contents are transmitted to OpenAI servers for processing during conversations. They are not permanently stored in ChatGPT Projects, but are subject to OpenAI's standard conversation data retention policies. This approach differs from manual uploads in that files are fetched on-demand rather than pre-uploaded.
 
